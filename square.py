@@ -3,6 +3,8 @@ import turtle
 
 turtle.shape("turtle")
 
+turtle.speed(10)
+
 size = 3
 
 def square(turtle, sidelength):
